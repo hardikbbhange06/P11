@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+*************************************************************************************************************************
+<!-- 
+
+*******How to Create JSON Server in React | JSON file as a server for fake API in React JS********>
+https://medium.com/how-to-react/how-to-use-json-file-as-a-server-for-fake-api-in-react-js-6b72606023b7
+
+ -->
+
+*************************************************************************************************************************
+  <!-- npm install @mui/material @emotion/react @emotion/styled  @mui/x-data-grid @mui/icons-material react-pro-sidebar formik  yup @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @nivo/pie @nivo/line @nivo/bar @nivo/geo -->
+
+  **********************************************************************************************************************************
